@@ -9,4 +9,5 @@ curl -sSL https://get.docker.io/ubuntu/ | sudo sh
 #apt-get install -y lxc-docker
 docker run -i -t ubuntu /bin/bash
 
-docker pull 10.99.168.75:5000/passport_newest
+#please refer to passport wiki to download image
+
